@@ -52,6 +52,8 @@
      <Compile Include="Assets\Scripts\GridMaker.cs" />
      <Compile Include="Assets\Scripts\InGameGUI.cs" />
      <Compile Include="Assets\Scripts\OpeningScreenGUI.cs" />
+     <Compile Include="Assets\Scripts\playButtonAction.cs" />
+     <Compile Include="Assets\Scripts\textScrolling.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
